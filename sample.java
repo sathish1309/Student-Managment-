@@ -26,7 +26,7 @@ public class StudentApplication {
         } else {
             System.out.println("Result    : FAIL");
         }
-
+         System.out.println("thanks");
         sc.close();
-    }
-}
+    }}
+
